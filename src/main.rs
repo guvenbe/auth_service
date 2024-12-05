@@ -1,5 +1,5 @@
-use auth_service::Credentials;
+use auth_servicex::Credentials;
 fn main() {
     let creds = Credentials::new("guvenb", "password");
-    auth_service::authenticate(creds);
+    auth_servicex::authenticate(creds);
 }

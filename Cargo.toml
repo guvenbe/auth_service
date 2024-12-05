@@ -1,5 +1,5 @@
 [package]
-name = "auth_service_bg"
+name = "auth_servicex"
 version = "0.1.0"
 edition = "2021"
 description = "example suth service"
