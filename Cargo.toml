@@ -1,7 +1,9 @@
 [package]
-name = "auth_service"
+name = "auth_service_bg"
 version = "0.1.0"
 edition = "2021"
+description = "example suth service"
+license = "MIT"
 
 [dependencies]
 rand = "0.8.5"
